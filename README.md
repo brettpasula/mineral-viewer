@@ -1,3 +1,3 @@
 # mineral-viewer 
 
-# MineralViewer project created by Brett Pasula. 
+MineralViewer project created by Brett Pasula. 
